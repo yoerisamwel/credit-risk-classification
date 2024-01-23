@@ -3,6 +3,7 @@
 Step 1: Project Overview
 This analysis is part of the George Washington University Data Analytics Bootcamp project.
 The goal is to predict loan status using logistic regression applied to lending data.
+I found it very interesting and applicable to my current work enviroment.
 
 Step 2: Data Preparation
 The lending data is loaded from the "Resources" folder into a Pandas DataFrame.
